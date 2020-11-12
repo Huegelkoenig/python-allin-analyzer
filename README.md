@@ -1,0 +1,1 @@
+This python program evaluates All In situations in Texas Hold'em
